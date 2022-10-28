@@ -1,5 +1,4 @@
-### Hi there 👋 I am Zohreh Ashtarilarki!
-
+### Hi there 👋 
 
 - 🔭 I’m currently working on a library database
 - 🌱 I’m currently learning Java
@@ -14,5 +13,5 @@
 As a computer science student at San Jose state university, I'm passionate about pursuing my major in Software development. I have always enjoyed researching and developing new technologies, solving technical problems, and developing innovative solutions to challenges.  
 
 ### What do I do for fun?
-- I love going to nature
+- Going to the nature
 - Watching drama movies
