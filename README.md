@@ -1,7 +1,7 @@
 ### Hi there 👋 
 
-- 🔭 I’m currently taking IBM Full Stack Cloud Developer Certificate
-- 🌱 I’m currently learning React
+- 🔭 I’m currently working on a full-stack project
+- 🌱 I’m currently learning web development
 - 👯 I’m looking to collaborate on team projects
 - 🤔 I’m looking for help with preparing for an interview
 - 💬 Ask me about Java
