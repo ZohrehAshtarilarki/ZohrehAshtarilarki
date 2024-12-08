@@ -10,8 +10,14 @@
 - ⚡ Fun fact: I think I am funny
 
 ### About Me
-As a computer science student at San Jose State University, I'm passionate about pursuing my major in Software development. I have always enjoyed researching and developing new technologies, solving technical problems, and developing innovative solutions to challenges.  
+As a computer science student at San Jose State University, I'm passionate about pursuing my major in Software development. I have always enjoyed researching and developing new technologies, solving technical problems, and developing innovative solutions to challenges. 
+
+## Projects
+### [Fall AI Studio: YouTube Viral Video Forecasting](https://github.com/Break-Through-Tech-AI-Google-3F/youtube-viral-forecasting?tab=readme-ov-file)
 
 ### What do I do for fun?
 - Going to the nature
 - Watching drama movies
+
+## Let's Connect
+[![LinkedIn](https://www.linkedin.com/in/z-ashtarilarki/)
