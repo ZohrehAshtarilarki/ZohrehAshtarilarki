@@ -20,4 +20,4 @@ As a computer science student at San Jose State University, I'm passionate about
 - Watching drama movies
 
 ## Let's Connect
-[![LinkedIn](https://www.linkedin.com/in/z-ashtarilarki/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/z-ashtarilarki/)
